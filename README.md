@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @kryslertucker
-- 👀 I’m interested in Golang, Vue
-- 🌱 I’m currently learning mostly everything
+- 👀 I’m interested in everything Golang, Vue
+- 🌱 I’m currently reading The Briar club by Kate Quinn
+- Love Running - I started training for the Every Woman's Marathon (Nov 2024)
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me krysler.tucker@gmail.com
 
